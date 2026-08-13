@@ -127,7 +127,7 @@ The project uses a **12-table retail data warehouse dataset** containing approxi
 - 📈 7. Interactive Dashboards
 - 🔄 8. SQL Reconciliation
 - 💡 9. Business Insights
-- 🎯 10. Management Recommendations |
+- 🎯 10. Management Recommendations
 
 ---
 
