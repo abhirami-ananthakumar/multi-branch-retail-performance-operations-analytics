@@ -121,7 +121,7 @@ The project uses a **12-table retail data warehouse dataset** containing approxi
 | 📦 1. Raw Retail Data | 🔍 2. Data Inspection | 🗄️ 3. MySQL / SQL Analysis | ✅ 4. SQL KPI Validation | 📊 5. Power BI Data Model |
 |:---:|:---:|:---:|:---:|:---:|
 
-**| 🧮 6. DAX Measures | 📈 7. Interactive Dashboards | 🔄 8. SQL Reconciliation | 💡 9. Business Insights | 🎯 10. Management Recommendations |**
+| 🧮 6. DAX Measures  | 📈 7. Interactive Dashboards | 🔄 8. SQL Reconciliation | 💡 9. Business Insights | 🎯 10. Management Recommendations |
 
 ---
 
