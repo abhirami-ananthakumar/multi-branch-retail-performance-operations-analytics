@@ -870,7 +870,7 @@ Overall, the project demonstrates a complete **Data Analyst / Business Intellige
 
 # 🗂️ Project Structure
 
-```text
+```
 Multi-Branch_Retail_Performance_Operations_Analysis/
 │
 ├── 01_Dataset/
@@ -919,7 +919,7 @@ Multi-Branch_Retail_Performance_Operations_Analysis/
 └── 07_Presentation/
     ├── Multi-Branch Retail Performance & Operations Intelligence Presentation.pptx
     └── Multi-Branch Retail Performance & Operations Intelligence Presentation.pdf
-
+```
 ---
 
 # 👩‍💻 Author
