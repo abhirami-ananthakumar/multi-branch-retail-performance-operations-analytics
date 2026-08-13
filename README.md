@@ -346,25 +346,6 @@ Delivery reliability is a major operational concern. Return reduction is another
 
 ---
 
-# ✅ SQL-to-Power BI Validation
-
-SQL was used as an independent validation layer for the Power BI dashboards.
-
-The validation process followed:
-
-```text
-SQL Calculation
-      ↓
-Power BI Measure
-      ↓
-Value Comparison
-      ↓
-Reconciliation
-      ↓
-Final Dashboard
-
----
-
 # 💡 Key Business Insights
 
 The analysis identified several important commercial, customer and operational patterns across the four-city retail business.
