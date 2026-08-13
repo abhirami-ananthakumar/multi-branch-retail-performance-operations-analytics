@@ -118,7 +118,10 @@ The project uses a **12-table retail data warehouse dataset** containing approxi
 
 # 🔄 Analytics Workflow
 
-```text
+| 📦 Raw Retail Data | 🔍 Data Inspection | 🗄️ MySQL / SQL Analysis | ✅ SQL KPI Validation | 📊 Power BI Data Model |
+|:---:|:---:|:---:|:---:|:---:|
+| ↓ | ↓ | ↓ | ↓ | ↓ |
+| 🧮 DAX Measures | 📈 Interactive Dashboards | 🔄 SQL Reconciliation | 💡 Business Insights | 🎯 Management Recommendations |
 Raw Retail Data
       ↓
 Initial Data Inspection
